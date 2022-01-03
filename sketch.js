@@ -27,7 +27,7 @@ bgImg=loadImage("bg1.png");
 bImg=loadImage("b1.png")
 restartImg=loadImage("button.png")
 eStop=loadAnimation("img/man6.png")
-gunShot=loadSound("shot.mp3")
+gunShot=loadSound("Shot.mp3")
 bgSound=loadSound("Bg-sound.mp3")
 
 }  
